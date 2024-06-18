@@ -79,4 +79,5 @@ router.delete('/:id',async(req,resp)=>{
     }
 })
 
+// export router
 module.exports =router
